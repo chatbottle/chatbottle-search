@@ -25,4 +25,5 @@ This is a simplified walkthrough to see the platform in action. Read the API Gui
 ### ChatBottle ranking factors
 
 See the image bellow to learn more about how ChatBottle ranks bots.
+
 ![ChatBottle ranking factors]({{site.baseurl}}/http://photos.chatbottle.co/static/ChatBottle-Search-Ranking-Factors.png)
