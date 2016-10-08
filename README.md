@@ -1,3 +1,5 @@
+![ChatBottle]({{site.baseurl}}//Logo_Chat_Bottle.png)
+
 ### What is ChatBottle
 
 ChatBottle is the best website to discover bots for [Messenger](https://chatbottle.co/bots/messenger "Facebook Messenger bots"), [Slack](https://chatbottle.co/bots/slack "Slack bots"), [Skype](https://chatbottle.co/bots/skype "Skype bots") and [Telegram](https://chatbottle.co/bots/telegram "Telegram bots") . It's like Google for chatbots.
@@ -26,4 +28,3 @@ This is a simplified walkthrough to see the platform in action. Read the API Gui
 
 See the image bellow to learn more about how ChatBottle ranks bots.
 
-![ChatBottle ranking factors]({{site.baseurl}}/http://photos.chatbottle.co/static/ChatBottle-Search-Ranking-Factors.png)
