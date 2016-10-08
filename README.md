@@ -18,7 +18,6 @@ How to submit a chatbot
 
 This is a simplified walkthrough to see the platform in action. Read the API Guide to learn about the features in more detail.
 
-1. Register at chatbottle.co;
-1. Register an existing chat bost at the dashboard;
-1. Every time your bots send or receive a message call ChatBottle API. Use bot's unique generated Authorization token to make calls.
-
+1. Register on https://chatbottle.co/;
+1. Register an existing chat bot or verify an existing one (if the bot is already on chatbottle);
+1. Verify the bot and connect ChatBottle API for better positions in the search results.
