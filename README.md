@@ -1,6 +1,6 @@
 ### What is ChatBottle
 
-ChatBottle is the best website to discover bots for [Messenger](https://chatbottle.co/bots/messenger "Facebook Messenger bots"), [Slack](https://chatbottle.co/bots/slack "Slack bots"), [Skype](https://chatbottle.co/bots/skype "Skype bots") and [Telegram](https://chatbottle.co/bots/telegram "Telegram bots") . It's like Google for chatbots.
+ChatBottle is the best website to chat with bots for like [Yae Mikp](https://chatbottle.co/bots/yae-miko) or [shinichiro azuma](https://chatbottle.co/bots/shinichiro-azuma)
 
 You probably know thousands of developers are working on bots right now. The market is becoming crowded and it's difficult to find a good chatbot. ChatBottle is one more channel to drive traffic to your bot. 
 
